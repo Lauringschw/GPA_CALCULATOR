@@ -1,6 +1,6 @@
 # newgpacalculator
 
-A new Flutter application.
+A failed Flutter project 
 
 ## Getting Started
 
